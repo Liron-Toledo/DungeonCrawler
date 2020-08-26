@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/DugeonRooms/BasementMain.unity
+    guid: c0492b86cd159814a967aedd6a37cac6
+  - enabled: 1
+    path: Assets/Scenes/DugeonRooms/Basement Rooms/BasementStart.unity
+    guid: 50daa63ca795d7f4b9152c26c4d7ca12
+  - enabled: 1
+    path: Assets/Scenes/DugeonRooms/Basement Rooms/BasementBasic.unity
+    guid: f83c0c179b877584d8186896e19cf4c7
+  - enabled: 1
+    path: Assets/Scenes/DugeonRooms/Basement Rooms/BasementEnd.unity
+    guid: 65a0328b98aa11c4c83467f5725acb46
+  - enabled: 1
+    path: Assets/Scenes/DugeonRooms/Basement Rooms/BasementEmpty.unity
+    guid: dc917ba62b157154399b6d1badbf0554
+  - enabled: 1
+    path: Assets/Scenes/DugeonRooms/Basement Rooms/BasementItem.unity
+    guid: 0522557fa7e37504581283c0662132c8
+  m_configObjects: {}
